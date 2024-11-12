@@ -33,6 +33,7 @@ En esta imagen se pueden ver las issues del repositorio en la columna "New Issue
 
 Eliminamos los filtros y movemos todas las tareas al Product Backlog.
 Tareas en el Product Backlog:
+
 ![image](https://github.com/user-attachments/assets/c6819303-59fd-4e5c-91fa-781960c9e6a7)
 
 En esta imagen se pueden ver las issues del repositorio en la columna "Product Backlog".
