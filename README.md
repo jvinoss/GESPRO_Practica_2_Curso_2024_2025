@@ -56,6 +56,8 @@ Cierre de la Release 1:
 En relación a la Release 2:
 - Comienzo de la Release 2
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/668f2c70-5008-4188-90ec-1cef9a5cfe8e">
+
 
 - Tareas de la 2da Release en progreso y filtradas por el topic ""
 
