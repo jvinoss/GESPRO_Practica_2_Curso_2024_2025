@@ -44,10 +44,13 @@ Tareas de la Release 1 en el Sprint Backlog:
 
 Para simular el proceso real que conlleva un sprint, movemos las tareas de tipo "Task" por el tablero de ZenHub ppor distintas columnas.
 Tareas de la Release 1 en progreso en diferentes columnas:
+
 <img width="563" alt="image" src="https://github.com/user-attachments/assets/d0946798-ba13-4ebb-afff-a61edc2ccad1">
 
 Y por último, cerramos todas las tareas relacionadas con la Release 1.
 Cierre de la Release 1:
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/005d2ddd-523d-4e70-b0dc-23e33b5610b1">
 
 
 En relación a la Release 2:
