@@ -65,6 +65,8 @@ En relación a la Release 2:
 
 Utilizamos un filtro por la label del topic "Extra":
 
+![image](https://github.com/user-attachments/assets/f517c150-4421-4da2-87a6-0c9b290b467f)
+
 
 
 Para poder ver que se puede comentar las tareas creadas, tanto por el usuario como por otro colaborador:
