@@ -71,4 +71,8 @@ Utilizamos un filtro por la label del topic "Extra":
 
 Para poder ver que se puede comentar las tareas creadas, tanto por el usuario como por otro colaborador:
 
+En esta parte, hemos comentado algunas de las tareas creadas. En la release 1 hemos hecho 3 preguntas en las diferentes, en la release 2 hemos realizado al menos otras dos preguntas y de la misma forma en la release 3.
+Algunos ejemplos son:
+![image](https://github.com/user-attachments/assets/42a01cbb-e260-40fa-87f6-011fb7ec8ebd)
+
 
