@@ -59,7 +59,12 @@ En relación a la Release 2:
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/668f2c70-5008-4188-90ec-1cef9a5cfe8e">
 
 
-- Tareas de la 2da Release en progreso y filtradas por el topic ""
+- Tareas de la 2da Release en progreso
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/6729ed8b-a9b4-446c-af39-bc42da9ed11c">
+
+Utilizamos un filtro por la label del topic "Extra":
+
 
 
 Para poder ver que se puede comentar las tareas creadas, tanto por el usuario como por otro colaborador:
