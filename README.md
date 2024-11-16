@@ -75,4 +75,6 @@ En esta parte, hemos comentado algunas de las tareas creadas. En la release 1 he
 Algunos ejemplos son:
 ![image](https://github.com/user-attachments/assets/42a01cbb-e260-40fa-87f6-011fb7ec8ebd)
 
+![image](https://github.com/user-attachments/assets/9938a378-ecfa-4fc7-be91-2e18eb3ea9b7)
+
 
