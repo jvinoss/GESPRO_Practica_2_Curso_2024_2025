@@ -77,4 +77,5 @@ Algunos ejemplos son:
 
 ![image](https://github.com/user-attachments/assets/9938a378-ecfa-4fc7-be91-2e18eb3ea9b7)
 
+![image](https://github.com/user-attachments/assets/2371949c-de1c-4f5d-b3d9-a6a0587e20cf)
 
